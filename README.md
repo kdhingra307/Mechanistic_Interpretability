@@ -2,7 +2,7 @@
 
 ### Updates
 
-Analysis based on Extended Set is available on ![notes](https://notes.itskd.me/doc/cot-faithfulness-extra-vs-external-tokens-xBXJ54de0K).
+Analysis based on Extended Set is available on [notes](https://notes.itskd.me/doc/cot-faithfulness-extra-vs-external-tokens-xBXJ54de0K).
 
 Problem Statement: Chain-of-thought (CoT) prompting often improves model performance and is commonly treated as evidence of how a model reasons. 
 
