@@ -1,5 +1,9 @@
 ## Code for Evaluation of impact of contextual importance of COT tokens
 
+### Updates
+
+Analysis based on Extended Set is available on ![notes](https://notes.itskd.me/doc/cot-faithfulness-extra-vs-external-tokens-xBXJ54de0K).
+
 Problem Statement: Chain-of-thought (CoT) prompting often improves model performance and is commonly treated as evidence of how a model reasons. 
 
 Is the semantic content of CoT causally necessary for correct answers, or can it use internal layers for reasoning with enough inference compute?
